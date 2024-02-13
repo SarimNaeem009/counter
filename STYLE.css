@@ -1,0 +1,58 @@
+.d1{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.84gXf8JnBfA4XKhUcs_IygHaDD&pid=Api&P=0&h=220");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    text-align: center;
+}
+#he1{
+    padding-top: 140px;
+    padding-left: 80px;
+    color: rgb(18, 17, 17);
+}
+#d2{
+  width: 50%;
+  height: 50vh;
+  background-image: url("https://tse4.mm.bing.net/th?id=OIP.1H0_oYOdguiisiSddCdFwAHaB1&pid=Api&P=0&h=220");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  position: absolute;
+  top: 30%;
+  right: 20%;
+}
+#d7{
+position: absolute;
+top: 30%;
+right: 25%;
+}
+#d3{
+    font-size: 50px;
+}
+#d4{
+    font-size: 30px;
+    border: none;
+}
+#d4:hover {
+    background-color: blue;
+    color: white;
+  }
+  
+#d5{
+    font-size: 30px;
+    border: none;
+}
+#d5:hover {
+    background-color:green;
+    color: white;
+  }
+#d6{
+    font-size: 30px;
+    border: none;
+}
+#d6:hover {
+    background-color: yellow;
+    color: white;
+  }
+  
